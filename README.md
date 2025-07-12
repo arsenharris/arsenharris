@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsen</h1>
-<h3 align="center">A mechanical engineer who loves making making my job easier</h3>
+<h3 align="center">A mechanical engineer who loves making tasks easier</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsenharris&label=Profile%20views&color=0e75b6&style=flat" alt="arsenharris" /> </p>
 
