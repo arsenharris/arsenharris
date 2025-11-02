@@ -5,9 +5,9 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsenharris" alt="arsenharris" /></a> </p>-->
 
-- 🌱 I’m currently learning **Django, JS and React are the next**
+- 🌱 I’m currently learning **Django, JS and React
 
-- 💬 Ask me about **python, html, css**
+- 💬 Ask me about **Python &Django,Js& React html, css**
 
 - ⚡ Things I want to build **I want to make engineering job fun and easy**
 <hr>
