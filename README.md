@@ -28,12 +28,15 @@ I build software and AI applications that make engineering and business workflow
 
 **Gen AI Bootcamp**
 A collection of Generative AI applications exploring LLMs, APIs and AI-powered workflows.
+https://github.com/arsenharris/free-genai-bootcamp2026
 
 **Embodied Carbon Platform**
 A web-based platform for working with embodied carbon data using Python and Django.
+https://github.com/arsenharris/embodied_carbon_backend
 
 **Crowdfunding Application**
 A full-stack web application built with Django and JavaScript/React.
+https://github.com/arsenharris/crowdfunding_backend
 
 ### 🤝 Connect With Me
 
