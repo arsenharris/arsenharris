@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arsen</h1>
 
-<h3 align="center">Mechanical Engineer | Software Developer | Generative AI</h3>
+<h3 align="center">Mechanical Engineer | Software Developer </h3>
 
 <p align="center">
 I build software and AI applications that make engineering and business workflows easier, faster, and more practical.
